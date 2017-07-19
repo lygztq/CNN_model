@@ -1,0 +1,10 @@
+0 sketchrnn_bee
+1 sketchrnn_elephant
+2 sketchrnn_cat
+3 sketchrnn_ant
+4 sketchrnn_cow
+5 sketchrnn_duck
+6 sketchrnn_fish
+7 sketchrnn_dragon
+8 sketchrnn_bird
+9 sketchrnn_dog
